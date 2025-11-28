@@ -1,3 +1,7 @@
+header{ 
+    background-color: black;
+}
+
 body {
     color:black;
     text-align: center;
@@ -6,5 +10,6 @@ body {
 }
 h1 {
     text-align:center;
-
+    background-color: purple;
+    border-style: dotted;
 }
