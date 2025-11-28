@@ -8,8 +8,12 @@ body {
     background-color: #DAB1DA ;
     
 }
-h1 {
+.title {
     text-align:center;
     background-color: purple;
     border-style: dotted;
+}
+
+.logo{
+    height: auto;
 }
