@@ -34,3 +34,10 @@ body {
 .logo{
     height: auto;
 }
+
+.title{
+  background-image: url(Images/Titlebanner.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
